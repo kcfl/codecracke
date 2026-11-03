@@ -1,0 +1,104 @@
+[
+  {
+    "id": "C01",
+    "category": "Wi-Fi",
+    "description": "Wi-Fi signal keeps dropping near the library",
+    "location": "Near Library",
+    "status": "Raised",
+    "submittedAt": "2026-11-01T07:23:37.271Z",
+    "supportCount": 0,
+    "statusHistory": [
+      {
+        "from": null,
+        "to": "Raised",
+        "at": "2026-11-01T07:23:37.271Z"
+      }
+    ]
+  },
+  {
+    "id": "C02",
+    "category": "Hostel",
+    "description": "Water supply interrupted in the hostel block",
+    "location": "Hostel Block B",
+    "status": "In Progress",
+    "submittedAt": "2026-11-02T23:23:37.271Z",
+    "supportCount": 0,
+    "statusHistory": [
+      {
+        "from": null,
+        "to": "Raised",
+        "at": "2026-11-02T23:23:37.271Z"
+      },
+      {
+        "from": "Raised",
+        "to": "In Progress",
+        "at": "2026-11-02T23:23:37.271Z"
+      }
+    ]
+  },
+  {
+    "id": "C03",
+    "category": "Classroom",
+    "description": "Projector not working in the lecture room",
+    "location": "Lecture Room 101",
+    "status": "Raised",
+    "submittedAt": "2026-10-31T07:23:37.271Z",
+    "supportCount": 0,
+    "statusHistory": [
+      {
+        "from": null,
+        "to": "Raised",
+        "at": "2026-10-31T07:23:37.271Z"
+      }
+    ]
+  },
+  {
+    "id": "C04",
+    "category": "Laboratory",
+    "description": "Lab computers failing to boot",
+    "location": "Computer Lab 2",
+    "status": "Resolved",
+    "submittedAt": "2026-11-02T07:23:37.271Z",
+    "supportCount": 0,
+    "statusHistory": [
+      {
+        "from": null,
+        "to": "Raised",
+        "at": "2026-11-02T07:23:37.271Z"
+      },
+      {
+        "from": "Raised",
+        "to": "In Progress",
+        "at": "2026-11-02T07:23:37.271Z"
+      },
+      {
+        "from": "In Progress",
+        "to": "Resolved",
+        "at": "2026-11-02T07:23:37.271Z"
+      }
+    ]
+  },
+  {
+    "id": "C05",
+    "category": "Wi-Fi",
+    "description": "Severe packet loss and frequent disconnection in Hostel 4 common room",
+    "location": "Hostel 4, Common Room 2nd Floor",
+    "status": "In Progress",
+    "submittedAt": "2026-11-03T08:47:32.490Z",
+    "createdBy": "rohit@satiengg.in",
+    "studentEmail": "rohit@satiengg.in",
+    "supportCount": 0,
+    "statusHistory": [
+      {
+        "from": null,
+        "to": "Raised",
+        "at": "2026-11-03T08:47:32.490Z"
+      },
+      {
+        "from": "Raised",
+        "to": "In Progress",
+        "at": "2026-11-03T08:48:24.825Z"
+      }
+    ]
+  }
+]
